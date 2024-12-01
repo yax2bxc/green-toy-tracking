@@ -1,0 +1,35 @@
+path: C:\Users\amogus\Desktop\tdata\smiski_all
+train: ./images/train
+val: ./images/val
+names:
+  0: Hiding
+  1: Hugging Knees
+  2: Looking Back
+  3: Lounging
+  4: Peeking
+  5: Reindeer
+  6: Scream
+  7: Sitting
+  8: Climbing
+  9: Daydreaming
+  10: Kneeling
+  11: Listening
+  12: IceSpice
+  13: Pushing
+  14: Snowman
+  15: Venus
+  16: Bridge
+  17: WireClimb
+  18: Handstand
+  19: HidingUnder
+  20: Hipper
+  21: Thinker
+  22: Trio
+  23: Defeated
+  24: Lazy
+  25: Left Angel
+  26: Relaxing
+  27: Right Angel
+  28: Scared
+  29: Sneaking
+  30: Stuck

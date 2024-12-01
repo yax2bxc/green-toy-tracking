@@ -1,0 +1,11 @@
+train: ./images
+val: ./images
+names:
+	0: Climbing
+	1: Daydreaming
+	2: Kneeling
+	3: Listening
+	4: Peeking
+	5: Pushing
+	6: Snowman
+	7: Venus
