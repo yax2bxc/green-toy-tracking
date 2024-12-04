@@ -2,12 +2,13 @@
 
 ![alt text](thumbnail.jpg)
 
-![alt text](thumbnail2.jpg)
+A trained yolov8 model identifying Smiski Trinkets from series 1 to 4. Includes the labelled training set to train your model on custom parameters.
 
-Only trained my model to have only series 1 to series 4 however.
-But works pretty well in identifying smiskis in images!
+# Requirements
+- pip install ultralyptics
+- python 3.10 or higher
 
-## To Run
+# Using pretained model
 
-Firstly, install requirements.txt using pip to your vitural enviorment!
-You could either run a model I've trained to predict some images containing smiskis or train the yolov8 model yourself with the images I've labelled in smiski_all folder!
+1. Put desired images in predict images
+2. Run main.py
