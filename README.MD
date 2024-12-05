@@ -5,7 +5,7 @@
 A trained yolov8 model identifying Smiski Trinkets from series 1 to 4. Includes the labelled training set to train your model on custom parameters.
 
 # Requirements
-- pip install ultralyptics
+- Install ultralytics package
 - python 3.10 or higher
 
 # Using pretained model
