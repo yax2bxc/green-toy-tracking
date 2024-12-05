@@ -10,5 +10,5 @@ A trained yolov8 model identifying Smiski Trinkets from series 1 to 4. Includes 
 
 # Using pretained model
 
-1. Put desired images in predict images
+1. Put desired images to make inference upon in predict images folder
 2. Run main.py
